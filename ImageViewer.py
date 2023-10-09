@@ -11,6 +11,7 @@ from PIL import Image, ImageTk
 import math, os
 from PixInfo import PixInfo
 
+# from child branch
 
 # Main app.
 class ImageViewer(Frame):
